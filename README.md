@@ -1,6 +1,7 @@
 # Welcome to the Spring Shoe Store!
 
-> A demonstration app built for Spring I/O 2023 to present Clean Architecture principles in Spring
+> A demonstration app built for Spring I/O 2023 to present Clean Architecture principles in Spring, > The presentation link is [here](https://youtu.be/mbNzUkNjrnA?si=9siRXc-JEW7Khakr).
+
 
 ## Overview 
 
